@@ -41,6 +41,7 @@ body {
   background-color: hsla(243, 65%, 57%, 0.6); // dark purple with 60% transparency
 }
 ```
+You can also add gradients by passing the linear-gradient value into the background property.
 
 To get custom colors to use in CSS, you will need some kind of color picker. Some text editors have built-in color pickers, like Visual Studio Code. If you search "color picker" on Google or DuckDuckGo, you will get a color picker that you can use. Google Chrome and Firefox also have color picker add-ons that you can install. Adobe Color CC not only helps you pick a color, but will also help you pick out a color scheme for your web page!
 
